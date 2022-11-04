@@ -1,5 +1,8 @@
 package data_types;
 
+/*TODO:
+*  IDIENTIFICAR CUAL DE LAS SIGUENTES DECLARACION DE VARIABLES ES CORRECTA Y CUAL ES INCORRECTA
+* */
 public class Identifier {
     public static void main(String[] args) {
         //Primitive DataTypes
@@ -8,7 +11,7 @@ public class Identifier {
         double $tsADoubleVariable = 1.302;
         float 572tsAFloatVariable = 12.3f;
         long _its_ALong_Variable = 1000000;
-     
+
         //Objects
         String coolString = "CoolString";
 
