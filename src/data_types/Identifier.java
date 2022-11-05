@@ -9,7 +9,7 @@ public class Identifier {
         int itsAnIntVariable = 10; /*Correct*/
         int ItsanIntVariable = 10; /*Incorrect*/
         double $tsADoubleVariable = 1.302;
-        float 572tsAFloatVariable = 12.3f;
+       // float 572tsAFloatVariable = 12.3f;
         long _its_ALong_Variable = 1000000;
 
         //Objects
